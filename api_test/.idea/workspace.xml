@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="902d2b2a-6311-44c2-928a-0facdfadf8ba" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/api_automation_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/api_automation_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/../Jenkinsfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../all.log" beforeDir="false" afterPath="$PROJECT_DIR$/../all.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api_automation_test/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../api_automation_test/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api_automation_test/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../api_automation_test/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api_automation_test/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../api_automation_test/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api_automation_test/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/../api_automation_test/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiDoc/all.log" beforeDir="false" afterPath="$PROJECT_DIR$/ApiDoc/all.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Util/Signature.py" beforeDir="false" afterPath="$PROJECT_DIR$/Util/Signature.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Util/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Util/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/ApiDoc.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/ApiDoc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/DingManage.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/DingManage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/VisitorRecord.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/VisitorRecord.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/automationCase.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/automationCase.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/automationReport.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/automationReport.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/dynamic.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/dynamic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/global_parameter.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/global_parameter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/member.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/member.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/projectList.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/projectList.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/projectTitle.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/projectTitle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/user.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/GlobalStatusCode.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/GlobalStatusCode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/WriteDocx.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/WriteDocx.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/WriteExcel.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/WriteExcel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/addTask.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/addTask.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/api_response.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/api_response.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/auto_start.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/auto_start.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/auto_task_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/auto_task_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/auto_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/auto_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/common.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/common.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/confighttp.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/confighttp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/end_task.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/end_task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/loadSwaggerApi.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/loadSwaggerApi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/sendEmail.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/sendEmail.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/DingConfig.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/DingConfig.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/.babelrc" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/.babelrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/build/build.js" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/build/build.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/build/check-versions.js" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/build/check-versions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/build/dev-client.js" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/build/dev-client.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/build/dev-server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/build/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/build/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/build/vue-loader.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/build/vue-loader.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/build/webpack.base.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/build/webpack.base.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/build/webpack.dev.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/build/webpack.dev.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/build/webpack.prod.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/build/webpack.prod.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/config/dev.env.js" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/config/dev.env.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/config/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/config/prod.env.js" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/config/prod.env.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/dist/static/css/app.71b5d1ef4c96b60d602a597a5683b4b0.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/dist/static/img/userphoto.6d73d26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/dist/static/js/0.9d783b0e62a27e8ac28e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/dist/static/js/1.0361da2a432e53ed650e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/dist/static/js/10.4664cbacc35230444330.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/dist/static/js/11.f127c45e64f6ccb15486.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/dist/static/js/12.1187cd4d0933799f64b9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/dist/static/js/13.d42875ad80794d82545a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/dist/static/js/14.c54ecee4254912947184.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/dist/static/js/15.75d9f1a46138ab4335b6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/dist/static/js/16.6294ce540c2b88cb1f0c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/dist/static/js/17.4f8eeb5a2ccfad84129a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/dist/static/js/18.0dd4f78379a06dfdd0c4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/dist/static/js/19.c625e65b8e2b62471a8d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/dist/static/js/2.fc65a494cb391acab5e1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/dist/static/js/20.c93e5f5f035f2d7f5bac.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/dist/static/js/21.25e1b674d45e351ad4ce.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/dist/static/js/22.51d766d611c49e651722.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/dist/static/js/23.835b49ec35801d28d24e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/dist/static/js/24.a85cf559858f1b6a4848.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/dist/static/js/25.5203a2781b4258e5b6df.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/dist/static/js/26.0d7f082d9ca441af7729.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/dist/static/js/27.81a9e270eefa1be143e2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/dist/static/js/28.0bd813eda27a5dbd948a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/dist/static/js/3.4fcdbb611191939ffff0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/dist/static/js/4.37b982cd32ecbc53c210.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/dist/static/js/5.cc532fccc319a68a76d8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/dist/static/js/6.f02679938619a893921e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/dist/static/js/7.7ad576b8a9cb55da8cc7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/dist/static/js/8.655374a1fd32a6bcfe0e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/dist/static/js/9.f427f8d235ff84ff5a5b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/dist/static/js/app.855bc64b0cdf7fa6adf6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/dist/static/js/manifest.25ce1c6ff082f4563852.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/dist/static/js/vendor.5d4e5ff7427b25b14a8c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/api/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/api/api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/api/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/api/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/common/js/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/common/js/util.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/views/Home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/views/Project.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/views/Project.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/views/Projectlist.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/views/Projectlist.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/views/Register.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/views/Register.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/views/common/404.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/views/common/404.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/views/common/Login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/views/common/Login.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/views/project/ProjectDynamic.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/views/project/ProjectDynamic.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/views/project/ProjectMember.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/views/project/ProjectMember.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/views/project/ProjectReport.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/views/project/ProjectReport.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/views/project/api/API.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/views/project/api/API.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/views/project/api/Addapi.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/views/project/api/Addapi.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/views/project/api/ApiList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/views/project/api/ApiList.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/views/project/api/ApiListGroup.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/views/project/api/ApiListGroup.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/views/project/api/FestTest.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/views/project/api/FestTest.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/views/project/api/updateApi/ApiDynamic.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/views/project/api/updateApi/ApiDynamic.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/views/project/api/updateApi/ApiForm.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/views/project/api/updateApi/ApiForm.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/views/project/api/updateApi/ApiInfo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/views/project/api/updateApi/ApiInfo.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/views/project/api/updateApi/TestApi.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/views/project/api/updateApi/TestApi.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/views/project/api/updateApi/UpdateApi.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/views/project/api/updateApi/UpdateApi.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/views/project/automation/AddCaseApi.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/views/project/automation/AddCaseApi.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/views/project/automation/AutomationTest.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/views/project/automation/AutomationTest.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/views/project/automation/CaseApiList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/views/project/automation/CaseApiList.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/views/project/automation/CaseList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/views/project/automation/CaseList.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/views/project/automation/CaseListGroup.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/views/project/automation/CaseListGroup.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/views/project/automation/TestReport.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/views/project/automation/TestReport.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/views/project/automation/UpdateCaseApi.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/views/project/automation/UpdateCaseApi.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/views/project/global/Globalhost.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/views/project/global/Globalhost.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/views/project/projectTitle/ProjectTitle.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/views/project/projectTitle/ProjectTitle.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/vuex/actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/vuex/actions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/vuex/getters.js" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/vuex/getters.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/vuex/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/vuex/store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/../manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../npm-debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/../npm-debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../requirements.txt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="902d2b2a-6311-44c2-928a-0facdfadf8ba" name="Default Changelist" comment="" />
+      <created>1598321156977</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598321156977</updated>
+      <workItem from="1598321163992" duration="48000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="48000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Project Explorer" />
+      <window_info id="Job Explorer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Console" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
